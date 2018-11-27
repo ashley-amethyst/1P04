@@ -6,4 +6,12 @@
 
 [Double_Helix_Sting](Double_Helix_Sting.mp3)
 
-[Foreign_Land_Sting](Foreign_Land_Sting)
+[Foreign_Land_Sting](Foreign_Land_Sting.mp3)
+
+[Allemande_Sting](Allemande_Sting.mp3)
+
+[Blip](Robot_blip.mp3)
+
+[Left_Hook](Left_Hook.mp3)
+
+[Slash](Slash.mp3)
