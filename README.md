@@ -14,4 +14,4 @@
 
 [Left_Hook](Left_Hook.mp3)
 
-[Slash](Slash.mp3)
+[Slash](Slash.wav)
