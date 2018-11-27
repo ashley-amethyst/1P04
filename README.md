@@ -15,3 +15,7 @@
 [Left_Hook](Left_Hook.mp3)
 
 [Slash](Slash.wav)
+
+[Step_Wood](Jog_Down_Solid_Wood_Stairs.mp3)
+
+[Step_Concrete](Jog_on_concrete.mp3)
