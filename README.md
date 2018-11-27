@@ -21,3 +21,5 @@
 [Step_Concrete](Jog_on_concrete.mp3)
 
 [Heroic_Reception](Heroic_Reception.mp3)
+
+[hurt](hurt.wav)
