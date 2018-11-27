@@ -19,3 +19,5 @@
 [Step_Wood](Jog_Down_Solid_Wood_Stairs.mp3)
 
 [Step_Concrete](Jog_on_concrete.mp3)
+
+[Heroic_Reception](Herioc_Reception.mp3)
