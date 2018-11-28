@@ -31,4 +31,4 @@
 
 [office_down](Officer Down.tff)
 
-[Euph](euphorigenic.tff)
+[Euph](euphorigenic.ttf)
