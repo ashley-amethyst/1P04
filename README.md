@@ -25,3 +25,10 @@
 [Heroic_Reception](Heroic_Reception.mp3)
 
 [hurt](hurt.wav)
+
+
+[arrow](Almo_Andrea_FontlabARROW.tff)
+
+[office_down](Officer Down.tff)
+
+[Euph](euphorigenic.tff)
